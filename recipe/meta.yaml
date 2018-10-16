@@ -42,7 +42,6 @@ about:
   license: GPL-2
   summary: Calculates partial and semi-partial (part) correlations along with p-value.
   license_family: GPL2
-  license_file: LICENSE
 extra:
    recipe-maintainers:
     - dpryan79
