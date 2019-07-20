@@ -17,7 +17,7 @@ source:
 
 build:
   noarch: generic
-  number: 1001
+  number: 1002
 
   rpaths:
     - lib/R/lib/
@@ -42,13 +42,10 @@ about:
   license: GPL-2
   summary: Calculates partial and semi-partial (part) correlations along with p-value.
   license_family: GPL2
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 extra:
    recipe-maintainers:
-    - dpryan79
+    - conda-forge/r
     - MathiasHaudgaard
     - FrodePedersen
     - ArneKr
-    - johanneskoester
-    - bgruening
-    - daler
-    - jdblischak
