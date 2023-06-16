@@ -1,11 +1,11 @@
-About r-ppcor
-=============
+About r-ppcor-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ppcor-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ppcor
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ppcor-feedstock/blob/main/LICENSE.txt)
 
 Summary: Calculates partial and semi-partial (part) correlations along with p-value.
 
